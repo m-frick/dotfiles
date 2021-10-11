@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = maxums@web.de
+	name = Maximilian Frick
